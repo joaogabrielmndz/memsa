@@ -1,0 +1,8 @@
+# Binários compilados
+memsa
+memsa-*
+*.exe
+
+# Workspace de testes locais no próprio repo
+.ai-memory/
+AGENTS.md
